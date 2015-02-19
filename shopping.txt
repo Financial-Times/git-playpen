@@ -1,12 +1,20 @@
+# Dairy
+
 Milk (Cravendale)
 Eggs
-Bread
 Yoghurt (Rachels)
-Sugar (Tate and Lyle)
-Flour
-Sweets
-Tomatoes
 Cheese
+
+# Bakery
+
+Bread
+Flour
+Sugar (Tate and Lyle)
+Sweets
+
+# Other
+
+Tomatoes
 Broccoli
 Carrots
 Beef mince (Irish)
